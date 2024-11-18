@@ -1,0 +1,14 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "arjanrijsdijk.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Arjan Rijsdijk",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
