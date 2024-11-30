@@ -1,0 +1,147 @@
+html {
+    height: 100%;
+    background-color: #232f34;
+    padding-top: 10%;
+}
+
+body {
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;      
+    background-color: #232f34;
+    padding-top: 32px;
+    font-size: 14px;
+}
+
+img {
+    width: 124px;
+    border-radius: 50%;
+}
+
+
+h1 {
+
+    background-color: #f24849;
+    transform: rotate(-2deg);
+    padding: 8px 16px 8px 26px ;
+    color: #e8e9e0;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 36px;
+    top: 5;
+
+}
+
+h2 {
+
+    padding: 6px 8px 6px 8px ;
+    color: #f4f5e8;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+h5 {
+
+    padding: 6px 8px 6px 8px ;
+    color: #f24849;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+
+
+header img {
+    border-radius: 100%;
+    transform: rotate(-3deg);
+    width: 64px;
+    height: 64px;
+    z-index: 2;
+    display:block;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+
+}
+
+.nav-item {
+    padding: 0px 4px;
+}
+
+svg {
+
+    width: 28px;
+    height: 28px;
+    margin-left: 12px;
+    color:  #f4f5e8;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.nav-item svg {
+    margin-top: 6px;
+}
+
+
+.badge {
+    margin-right: 8px;
+    margin-bottom: 8px;
+
+}
+
+
+.btn-primary {
+
+    background-color: #f4f5e8;
+    border-radius: 2px;
+    border-color: #f4f5e8;
+    color: #6a6b64;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.btn-primary:hover {
+
+    background-color: #6a6b64;
+    border-color: #6a6b64;
+    color: #f4f5e8;
+    transform: rotate(-3deg);
+
+}
+
+
+
+
+
+.btn-outline-dark {
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 2px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    font-size: 14px;
+}
+
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-width: 0px;
+    border-radius: 2px;
+}
+
+.card img {
+    border-radius: 2px;
+}
+
+
